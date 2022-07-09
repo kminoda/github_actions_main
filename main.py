@@ -8,6 +8,7 @@ def main():
 
     output = utils.my_util(data)
     print('The output is {}'.format(output))
+    print('We have fixed a minor bug.')
 
 if __name__ == "__main__":
     main()
